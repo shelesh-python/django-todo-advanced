@@ -13,7 +13,9 @@ It is **fully deployed and live on Render**.
 - Create new tasks  
 - Mark tasks as **Completed / Pending**  
 - Delete tasks  
-- View personal task statistics  
+- View personal task statistics
+
+---
 
 👮 Admin Features  
 - Secure Admin Authentication  
@@ -22,12 +24,16 @@ It is **fully deployed and live on Render**.
   - Total Users  
   - Completed Tasks  
   - Pending Tasks  
-- View all users’ tasks  
+- View all users’ tasks
+
+---
 
 🌐 API Features  
 - REST APIs built using Django REST Framework  
 - Authenticated endpoints  
-- Admin-only API access  
+- Admin-only API access
+
+---
 
 🎨 UI & UX  
 - Clean and simple user interface  
